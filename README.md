@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hrushikesh</h1>
+<h3 align="center">A passionate Software Engineer</h3>
+
+- 📫 How to reach me **hrushikesh1133@gmail.com**
 
 <!--
 **HrushikeshKaranth/HrushikeshKaranth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
