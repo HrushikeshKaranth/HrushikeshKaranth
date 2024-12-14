@@ -1,4 +1,4 @@
-# Hi 🖐, I'm Hrushikesh, Software Engineer 💻
+# Hi 🖐, I'm Hrushikesh, A passionate Software Engineer 💻
 
 
 # 🌐 Socials:
